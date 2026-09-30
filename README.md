@@ -1,0 +1,1 @@
+Projeto de Simulador de Investimentos em fundos imobiliários, desenvolvido em planilha excel, calculando o patrimônio acumulado em um período de tempo e aporte financeiro mensal informados, além de cálculo dos dividendos mensais considerando o rendimento médio da carteira de investimentos do usuário.
